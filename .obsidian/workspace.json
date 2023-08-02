@@ -13,26 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Places/Loháven/Colonies/Bloodfield/Farshore Port.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "53e2cf76d15f065c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "437a849ae3d16e3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Map/Map.md",
+                "file": "Places/Ashenfell/Blighthollow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Loháven/Colonies/Bloodfield/Farshore Port.md",
+                "file": "Places/Ashenfell/Blighthollow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Places/Loháven/Colonies/Bloodfield/Farshore Port.md",
+                "file": "Places/Ashenfell/Blighthollow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Loháven/Colonies/Bloodfield/Farshore Port.md"
+                "file": "Places/Ashenfell/Blighthollow.md"
               }
             }
           }
@@ -169,6 +150,17 @@
   },
   "active": "d4d14266ef900913",
   "lastOpenFiles": [
+    "Images/HangmansHill.png",
+    "Places/Loháven/Colonies/Bloodfield/Farshore Port.md",
+    "Places/Ashenfell/Blighthollow.md",
+    "Images/DeepshivGrott.png",
+    "Images/BlighthollowPic3.png",
+    "Images/BlighthollowPic2.png",
+    "Images/BlighthollowPic1.png",
+    "Images/AshAlley.png",
+    "Images/SableSquare.png",
+    "Images/Muddocks.png",
+    "Images/HagfootBridge.png",
     "Places/Loháven/Loháven.md",
     "Places/Loháven/Refuge.md",
     "Places/Loháven/Iomedar.md",
@@ -176,7 +168,6 @@
     "Places/Loháven/Colonies/Channel, The Dale/Shallowport.md",
     "Places/Loháven/Colonies/Bloodfield/Bloodfield.md",
     "Places/Loháven/Colonies/Bloodfield/Ester.md",
-    "Places/Loháven/Colonies/Bloodfield/Farshore Port.md",
     "Places/Loháven/Colonies/Bloodfield/Highfield.md",
     "Places/Loháven/Colonies/Bloodfield/Norfield.md",
     "Places/Loháven/Colonies/Bloodfield/Yellowfield.md",
@@ -193,18 +184,8 @@
     "Fusklappar/Settlements.md",
     "Fusklappar/Encounter.md",
     "Map/Map.md",
-    "Places/The Silver Coast/Silveria.md",
-    "Timeline.md",
     "Images/YangoraHex.png",
     "Images/YellowfieldImage.jpg",
-    "Images/ZonKuthon.webp",
-    "Images/YangoraHex.jpg",
-    "Images/Yangora.PNG",
-    "Images/WyrmrestHall.jpg",
-    "Images/TriskelionImage.jpg",
-    "Images/Thumbnail.jpeg",
-    "Images/TheRedBaron.jpeg",
-    "Images/TheNewDawnSymbol.jpg",
     "Map/leaflet_marker_data.csv",
     "Map/plugins/obsidian-leaflet-plugin/data.json",
     "Map/plugins/obsidian-leaflet-plugin",
